@@ -9,12 +9,12 @@ const Hero = (props) => (
     <LeftSection>
       <SectionTitle main center>
         Welcome To <br />
-        Insignis DAO
+        0xKoda's Portfolio
       </SectionTitle>
       <SectionText>
-        The Insignis Dao aims to shake up the DAO market with a new way to elect council members. Insigis is powered by Atlantis, the deepest Meta liquidty pool.
+        I am a web developer who recently took the plunge into solidity, developing smart contracts and interacting with the blockchain via web3. 
       </SectionText>
-      <Button onClick={() => window.location = 'https://medium.com'} >Learn More</Button>
+      <Button onClick={() => window.location = 'https://github.com/0xkoda'} >Learn More</Button>
     </LeftSection>
   </Section>
 );

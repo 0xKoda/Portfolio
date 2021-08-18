@@ -9,7 +9,8 @@ const Technologies = () =>  (
     <br />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      Insignis aims for compatibility with a variety of technologies and frameworks.
+      Experience with a variety of technologies and frameworks. 
+      <br />
       From Back-end To Design.
     </SectionText>
     <List>
@@ -29,7 +30,7 @@ const Technologies = () =>  (
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-            Node, Databases.
+            Node, GraphQl, Databases.
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -39,7 +40,7 @@ const Technologies = () =>  (
           <ListTitle>Web3</ListTitle>
           <ListParagraph>
             Experience with <br />
-            Hardhat, Solidity, Ethers, Web3js
+            Hardhat, Solidity, Ethersjs
           </ListParagraph>
         </ListContainer>
       </ListItem>
