@@ -1,3 +1,2 @@
-## Personal Portfolio
+My portfolio website built using NextJs and React.
 
-![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
