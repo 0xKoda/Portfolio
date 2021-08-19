@@ -1,2 +1,2 @@
 # Portfolio
-My portfolio site, built with NextJs
+My portfolio site, built with NextJs and React.
